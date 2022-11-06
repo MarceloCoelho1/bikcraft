@@ -19,3 +19,8 @@ img[src$=".jpg"] {
 a {
     color: inherit;
 }
+
+blockquote {
+    margin: 0;
+    padding: 0;
+}

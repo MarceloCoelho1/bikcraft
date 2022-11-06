@@ -10,10 +10,20 @@
     line-height: 1.33;
     font-family: 'Poppins', sans-serif;
     font-weight: bold;
+    max-width: max-content;
 }
 
 .botao:hover {
     background: linear-gradient(#FFB60d, #e59317);
+}
+
+.botao.secundario {
+    background: var(--cor-10);
+    color: var(--cor-2);
+    max-width: max-content;
+}
+.botao.secundario:hover {
+    background: var(--cor-9);
 }
 
 .link {
