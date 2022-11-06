@@ -32,3 +32,8 @@
 /* Seguros */ 
 
 @import './seguros/seguros.css';
+
+/* Footer */ 
+
+@import './global/footer.css';
+
