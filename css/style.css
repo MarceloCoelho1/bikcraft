@@ -11,5 +11,9 @@
 
 @import './home/intro.css';
 
+/* Bicicletas */
+
+@import './bicicletas/bicicletas-lista.css';
+
 
 
