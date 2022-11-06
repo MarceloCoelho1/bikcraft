@@ -11,7 +11,7 @@
 
 @import './home/intro.css';
 
-/* Bicicletas */
+/* Bicicletas home */
 
 @import './bicicletas/bicicletas-lista.css';
 
@@ -36,4 +36,16 @@
 /* Footer */ 
 
 @import './global/footer.css';
+
+/* Termos */ 
+
+@import './termos/termos.css';
+
+/* Bicicletas */ 
+
+@import './bicicletas/bicicletas.css';
+
+
+
+
 
