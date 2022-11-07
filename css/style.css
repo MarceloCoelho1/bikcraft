@@ -44,6 +44,15 @@
 /* Bicicletas */ 
 
 @import './bicicletas/bicicletas.css';
+@import './bicicleta/bicicleta.css';
+
+
+
+
+/* Seguros page */ 
+
+@import './seguros/vantagens.css';
+@import './seguros/perguntas.css';
 
 
 
