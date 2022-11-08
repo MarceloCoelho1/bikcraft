@@ -32,6 +32,7 @@
 /* Seguros */ 
 
 @import './seguros/seguros.css';
+@import './bicicleta/seguro.css';
 
 /* Footer */ 
 
@@ -57,4 +58,12 @@
 
 
 
+@import './componentes/formulario.css';
+@import './contato/contato.css';
+@import './contato/lojas.css';
+
+
+/* orcamento */ 
+
+@import './orcamento/orcamento.css';
 
