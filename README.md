@@ -1,5 +1,6 @@
 Projeto bikcraft feito desde o UX/UI design até o código.
-Site inteiramente responsivo.
+Site inteiramente responsivo. 
+<br>
 Obs: <strong>as imagens foram retiradas do curso da Origamid.</strong>
 
 
