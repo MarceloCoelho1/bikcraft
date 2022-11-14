@@ -10,7 +10,7 @@ Página sobre as bicicletas:
 <br>
 Página sobre os seguros:
 <br>
-![seguros](./preview/bicicletas-img.png)
+![seguros](./preview/seguros-img.png)
 
 <br>
 Página sobre o orçamento:
